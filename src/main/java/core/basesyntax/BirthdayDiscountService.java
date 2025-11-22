@@ -6,4 +6,3 @@ public class BirthdayDiscountService implements DiscountService {
         return 33;
     }
 }
-
