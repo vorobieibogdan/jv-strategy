@@ -1,4 +1,4 @@
-﻿package core.basesyntax.strategy.impl;
+package core.basesyntax.strategy.impl;
 
 import core.basesyntax.strategy.DiscountService;
 
