@@ -1,4 +1,4 @@
-﻿package core.basesyntax;
+package core.basesyntax;
 
 import core.basesyntax.strategy.DiscountService;
 import core.basesyntax.strategy.impl.BirthdayDiscountService;
@@ -24,3 +24,4 @@ public class DiscountStrategy {
         }
     }
 }
+
