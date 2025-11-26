@@ -12,7 +12,6 @@ public class DiscountStrategy {
         if (specialEvent == null) {
             return new DefaultDiscountService();
         }
-
         switch (specialEvent) {
             case "Birthday":
                 return new BirthdayDiscountService();
@@ -25,3 +24,4 @@ public class DiscountStrategy {
         }
     }
 }
+
